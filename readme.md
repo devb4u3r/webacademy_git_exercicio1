@@ -1,4 +1,6 @@
 
 <h1 align='center'>Calculadora em Python</h1>
 
-<p>Operações básicas</p>
+<h3>Operações básicas</h3>
+
+<p>Adição, Subtração, Multiplicação, Divisão</p>
